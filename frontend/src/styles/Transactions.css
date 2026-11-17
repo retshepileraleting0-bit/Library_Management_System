@@ -1,0 +1,38 @@
+.transactions-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.type-badge {
+  padding: 0.2rem 0.65rem;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.8rem;
+  letter-spacing: 0.2px;
+}
+
+.type-add {
+  background-color: #e6ede8;
+  color: #29573f;
+}
+
+.type-deduct {
+  background-color: #faece8;
+  color: #b84233;
+}
+
+.radio-group {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 0.4rem;
+}
+
+.radio-label {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.92rem;
+  color: #2d3835;
+  cursor: pointer;
+}
